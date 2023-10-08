@@ -6,3 +6,4 @@
 [[exam/System Software/Notes Sys. Sos Mid term\|Notes Sys. Sos Mid term]]
 [[exam/exam seating plan/midterm/Seating plan midterm Vth semester\|Seating plan midterm Vth semester]]
 [[exam/CBNST/Syllabus CBNST\|Syllabus CBNST]]
+[[exam/dbms/dbms notes\|dbms notes]]
