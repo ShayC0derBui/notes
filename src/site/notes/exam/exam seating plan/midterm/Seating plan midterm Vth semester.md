@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam/exam-seating-plan/midterm/seating-plan-midterm-vth-semester/"}
+{"dg-publish":true,"permalink":"/exam/exam-seating-plan/midterm/seating-plan-midterm-vth-semester/","dgPassFrontmatter":true}
 ---
 
 
