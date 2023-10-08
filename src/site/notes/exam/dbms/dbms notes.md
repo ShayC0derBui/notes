@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam/dbms/dbms-notes/"}
+{"dg-publish":true,"permalink":"/exam/dbms/dbms-notes/","dgPassFrontmatter":true}
 ---
 
 ![[DBMS Lecture 7.pdf]]
