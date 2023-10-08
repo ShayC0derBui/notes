@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam/os/os-ashish-garg-video/"}
+{"dg-publish":true,"permalink":"/exam/os/os-ashish-garg-video/","dgPassFrontmatter":true}
 ---
 
 https://www.youtube.com/watch?v=gal09XXnqhU&list=PLevuEtnAdteQGUlTCdh9a1Q4zN-_hxJQl
