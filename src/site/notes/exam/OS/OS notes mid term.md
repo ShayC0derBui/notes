@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam/os/os-notes-mid-term/"}
+{"dg-publish":true,"permalink":"/exam/os/os-notes-mid-term/","dgPassFrontmatter":true}
 ---
 
 ![[OS MID SEM.pdf]]
