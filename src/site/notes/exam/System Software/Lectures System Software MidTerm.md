@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam/system-software/lectures-system-software-mid-term/"}
+{"dg-publish":true,"permalink":"/exam/system-software/lectures-system-software-mid-term/","dgPassFrontmatter":true}
 ---
 
   
