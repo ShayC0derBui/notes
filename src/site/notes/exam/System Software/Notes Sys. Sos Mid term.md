@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam/system-software/notes-sys-sos-mid-term/"}
+{"dg-publish":true,"permalink":"/exam/system-software/notes-sys-sos-mid-term/","dgPassFrontmatter":true}
 ---
 
 [[exam/System Software/Sys. Sos midterm syllabus\|Sys. Sos midterm syllabus]]
