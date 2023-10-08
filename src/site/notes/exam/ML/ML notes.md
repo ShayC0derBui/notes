@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exam/ml/ml-notes/"}
+{"dg-publish":true,"permalink":"/exam/ml/ml-notes/","dgPassFrontmatter":true}
 ---
 
 ![[Unit 1 (1).pdf]]
